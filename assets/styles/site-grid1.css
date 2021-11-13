@@ -24,6 +24,15 @@
     gap: 10px;
 }
 
+.more {
+    display: grid;
+    background-color: purple;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 10px;
+}
+
+/*
 .more1 {
     background-color: purple;
     grid-template-columns: 1fr 1fr 1fr;
@@ -39,6 +48,7 @@
     background-color: purple;
     grid-template-columns: 1fr 1fr;
 }
+*/
 
 .sidebar {
     background-color: pink;
